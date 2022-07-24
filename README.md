@@ -1,7 +1,7 @@
 # Grabify Links
 A public repository with all (known) Grabify links
 
-# Pull requests
+# Contribute
 Feel free to open a pull request if you have any grabify links to add or remove. Please keep it tidy, and put it in alphabetical order.
 
 # Credits
