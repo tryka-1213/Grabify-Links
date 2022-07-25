@@ -39,5 +39,5 @@ iplogger.com
 iplogger.info
 iplogger.org
 iplogger.ru
-mapper.info
+maper.info
 yip.su
